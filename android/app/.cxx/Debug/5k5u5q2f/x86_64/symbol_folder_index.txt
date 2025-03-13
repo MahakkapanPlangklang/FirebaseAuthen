@@ -1,0 +1,1 @@
+D:\VS Code\Flutter\firebase_authen\build\app\intermediates\cxx\Debug\5k5u5q2f\obj\x86_64
